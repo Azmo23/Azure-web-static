@@ -20,6 +20,6 @@ main > h1 {
   font-size: 3.5em;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-div img{justify-content: center;
+div{text-align: center;
 
 }
